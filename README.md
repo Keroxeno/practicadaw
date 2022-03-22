@@ -1,2 +1,2 @@
-# practicadaw
-Esto es la practica de daw
+# Bienvenido al repositorio de practicas de daw
+Adrián Fernández Manzano
